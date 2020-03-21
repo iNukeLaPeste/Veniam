@@ -32,5 +32,6 @@ Entering the following command:
 ```
 !price xtz
 ```
-will displays this:
+will display this:
+
 ![XTZ Example](images/example_xtz.png)
