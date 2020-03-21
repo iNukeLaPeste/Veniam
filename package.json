@@ -1,0 +1,27 @@
+{
+  "name": "veniam",
+  "version": "1.0.0",
+  "description": "A Discord bot to keep an eye on your favorite cryptocurrencies. Hey, I am Veniam!",
+  "main": "veniam.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "discord.js": "^12.0.2",
+    "dotenv": "^8.2.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iNukeLaPeste/Veniam.git"
+  },
+  "author": "iNukeLaPeste",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iNukeLaPeste/Veniam/issues"
+  },
+  "homepage": "https://github.com/iNukeLaPeste/Veniam#readme"
+}
