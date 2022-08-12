@@ -4,7 +4,7 @@
   "description": "A Discord bot to keep an eye on your favorite cryptocurrencies. Hey, I am Veniam!",
   "main": "veniam.js",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "discord.js": "^12.0.2",
     "dotenv": "^8.2.0",
     "request": "^2.88.2",
